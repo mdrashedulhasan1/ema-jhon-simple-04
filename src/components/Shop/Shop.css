@@ -1,0 +1,11 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.products-container{
+    margin-left: 30px;
+    border-right: 2px solid gray;
+}
+.cart-container{
+    margin-left: 10px;
+}
